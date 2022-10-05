@@ -1,9 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou David Edson</h1>
-- 🔭 Atualmente tentando vaga **de estágio ou Júnior**
-
-- 🌱 Eu estou sempre procurando aprender **novos Frameworks e tecnologias!**
-
-- 💬 Me pergunte sobre **HTML, CSS, Javascript, Bootstrap, MySqL ...**
+<h1 align="center">Olá, Eu sou David Edson</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
