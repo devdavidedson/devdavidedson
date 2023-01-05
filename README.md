@@ -1,11 +1,6 @@
 <h1 align="center">Olá, Eu sou David Edson</h1>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/devdavidedson">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidedson&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidedson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -19,6 +14,6 @@
 
 ![Snake animation](https://github.com/devdavidedson/devdavidedson/blob/output/github-contribution-grid-snake.svg)
 
-![David Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdavidedson&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidedson&layout=compact)
+<a href="https://github.com/devdavidedson">
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidedson&layout=compact&langs_count=7&theme=dracula"/></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidedson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
