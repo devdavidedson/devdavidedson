@@ -11,6 +11,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 <br>
-<br>
+
 <a href="https://github.com/devdavidedson">
 <p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidedson&layout=compact&langs_count=7&theme=dracula"/></p>
