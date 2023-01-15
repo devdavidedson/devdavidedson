@@ -1,5 +1,6 @@
 <h1 align="left">Olá, Eu sou David Edson</h1>
-
+<h3>minha frase preferida é:</h3>
+<p>Toda chegada vem de um primeiro passo dado!</p>
 <h3 align="left">Stacks que domino:</h3>
 <br>
 <p align="left"> 
