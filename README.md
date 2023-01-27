@@ -1,6 +1,6 @@
 <h1 align="left">Olá, Eu sou David Edson</h1>
 <h3>minha frase preferida é:</h3>
-<p>Toda distância percorrida vem de um primeiro passo dado!</p>
+<p>O conhecimento é poder, mas a vontade de aprender é a chave para alcançá-lo.</p>
 <h3 align="left">Stacks que domino:</h3>
 <br>
 <p align="left"> 
