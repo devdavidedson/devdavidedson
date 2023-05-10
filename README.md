@@ -1,6 +1,6 @@
 <h1 align="left">Olá, Eu sou David Edson</h1>
 <h3 align="center">minha frase preferida é:</h3>
-<p align="left">O conhecimento é poder, mas a vontade de aprender é a chave para alcançá-lo.</p>
+<h2 align="left">O conhecimento é poder e a vontade de aprender é a chave para alcançá-lo.</h2>
 <h3 align="left">Stacks que domino:</h3>
 <br>
 <p align="left"> 
